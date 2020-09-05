@@ -1,6 +1,6 @@
-# gmaildeleteundo
+# Gmail Delete Undo
 
-A simple GMAIL UI with swipe to delete and undo delete feature. 
+A simple gmail UI with swipe to delete and undo delete feature. 
 
 ## Getting Started
 
